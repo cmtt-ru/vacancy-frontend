@@ -91,4 +91,4 @@
 
 Поповеры
 
-![](/assets/Popovers@2x.png)
+![](/assets/Popover@2x.png)
