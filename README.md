@@ -19,6 +19,10 @@
 <h3>Будет плюсом</h3>   
 
 <ul>
+    <li>Понимание работы SSR, CSR, (Re)Hydration, Prerendering, Isomorphic/Trisomorphic Rendering</li>
+    <li>Опыт работы с Service Workers, Shared Workers</li>
+    <li>Понимание принципов оптимизации Time to Interactive, Time to First Byte, First Paint, First Contentful Paint, First Input Delay, Estimated Input Latency</li>
+    <li>Знания в области безопасности, понимание принципов CORS, CSP, STS, CSRF</li>
     <li>Знание TypeScript</li>
     <li>Опыт написания Unit и End-to-end тестов</li>
     <li>Опыт работы со Storybook</li>
